@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **ReactJS, Node.js**
 
-- 👨‍💻 All of my projects are available at [https://jonasmoreirajunior.github.io/](jonasmoreirajunior.github.io)
+- 👨‍💻 All of my projects are available at [jonasmoreirajunior.github.io](https://jonasmoreirajunior.github.io/)
 
 - 💬 Ask me about **JS, React, Wordpress**
 
